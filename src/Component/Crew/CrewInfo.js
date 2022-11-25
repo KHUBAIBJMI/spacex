@@ -15,7 +15,7 @@ const CrewInfo = () => {
       <div className="row">
         <div className="col-sm-6">
           <img
-            src={crew.images}
+            src={crew.image}
             className="img-fluid rounded"
             style={{ width: "450px", height: "550px" }}
             alt = "image loading"
